@@ -1,0 +1,20 @@
+---
+- !ruby/object:Contact
+  phone_numbers:
+  - !ruby/object:PhoneNumber
+    kind: Home
+    number: '9816324927'
+  - !ruby/object:PhoneNumber
+    kind: Home
+    number: ''
+  addresses:
+  - !ruby/object:Address
+    kind: JOme
+    street_1: kghk
+    street_2: skagdk
+    state: aksdgaj
+    city: kashg
+    postal_code: sjhga
+  first_name: Mau
+  middle_name: ''
+  last_name: ANk
